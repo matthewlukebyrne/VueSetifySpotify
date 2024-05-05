@@ -23,7 +23,7 @@ export default {
       const url = `https://api.figma.com/v1/images/${this.fileId}?ids=${this.nodeId}&format=svg`;
       axios.get(url, {
         headers: {
-          'X-Figma-Token': 'figd_giUYVbRKXkm-Ie0WwimqQJeu-Pg7cyOyZZYyners' // This should be kept secure
+          'X-Figma-Token': '' // This should be kept secure
         }
       })
       .then(response => {
