@@ -11,11 +11,9 @@ This project aims to replicate [Setify.co](https://setify.co/), integrating Vue.
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## Key Features (Phase 1 - Design and Frontend Intergration)
 
-- **Canva Plugin:** Allows incorporation Canva boards for mock concepts association through component elements for the basis of design.
 - **Vue.js:** A progressive JavaScript framework used to build the front-end.
 - **TailwindCSS:** A utility-first CSS framework for rapidly building custom designs.
 
@@ -31,7 +29,6 @@ This project aims to replicate [Setify.co](https://setify.co/), integrating Vue.
 
 - [Vue.js Documentation](https://vuejs.org/)
 - [TailwindCSS Guide for Vue 3 + Vite](https://v2.tailwindcss.com/docs/guides/vue-3-vite)
-- [Canva for Developers](https://www.canva.com/developers/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Setlist FM API](https://api.setlist.fm/docs/1.0/index.html)
 
